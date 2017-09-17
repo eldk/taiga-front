@@ -283,13 +283,13 @@
         "CREATE_ACCOUNT": "créer votre compte gratuit ici"
     },
     "LOGIN_COMMON": {
-        "HEADER": "J'ai déjà un identifiant Taiga",
-        "PLACEHOLDER_AUTH_NAME": "Nom d'utilisateur ou courriel (sensible à la casse)",
+        "HEADER": "J'ai déjà un identifiant",
+        "PLACEHOLDER_AUTH_NAME": "Nom d'utilisateur ou courriel",
         "LINK_FORGOT_PASSWORD": "Mot de passe oublié ?",
         "TITLE_LINK_FORGOT_PASSWORD": "Avez-vous oublié votre mot de passe ?",
         "ACTION_ENTER": "Entrer",
         "ACTION_SIGN_IN": "Se connecter",
-        "PLACEHOLDER_AUTH_PASSWORD": "Mot de passe (sensible à la casse)",
+        "PLACEHOLDER_AUTH_PASSWORD": "Mot de passe",
         "ALT_LOGIN": "Ou connectez vous avec"
     },
     "LOGIN_FORM": {
@@ -301,11 +301,11 @@
         "PAGE_DESCRIPTION": "Créez votre compte sur Taiga, une plateforme de gestion de projets pour les startups, les développeurs et les designers agiles qui veulent un outil simple, beau et qui rend le travail vraiment agréable."
     },
     "REGISTER_FORM": {
-        "TITLE": "Créer un compte Taiga (gratuit)",
-        "PLACEHOLDER_NAME": "Choisissez un nom d'utilisateur (sensible à la casse)",
+        "TITLE": "Créer mon compte",
+        "PLACEHOLDER_NAME": "Choisissez un nom d'utilisateur",
         "PLACEHOLDER_FULL_NAME": "Choisissez votre nom complet",
         "PLACEHOLDER_EMAIL": "Votre adresse courriel",
-        "PLACEHOLDER_PASSWORD": "Saisissez un mot de passe (sensible à la casse)",
+        "PLACEHOLDER_PASSWORD": "Saisissez un mot de passe",
         "ACTION_SIGN_UP": "S'enregistrer",
         "TITLE_LINK_LOGIN": "Se connecter",
         "LINK_LOGIN": "Êtes-vous déjà enregistré ? Connectez-vous."
